@@ -3,19 +3,7 @@ var bodyParser = require('body-parser');
 
 var app = express();
 
-/*var user = [{
-  firstName: "John",
-  lastName: "Doe",
-  email: 'jdoe@yahoo.com'
-}, {
-  firstName: "Johny",
-  lastName: "Doel",
-  email: 'jdoel@yahoo.com'
-}, {
-  firstName: "John",
-  lastName: "smith",
-  email: 'jsmith@yahoo.com'
-}]*/
+
 var menu = {
   chips: 2.99,
   coke: .99,
